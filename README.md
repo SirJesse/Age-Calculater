@@ -1,2 +1,2 @@
 # Age-Calculater
-With the details of birth it calculates what your current age is rounded down.
+You can put in details of age in the format of YYYY/MM/DD. It will calculate and round down your age.
